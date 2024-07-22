@@ -51,7 +51,11 @@ El repositorio está organizado de la siguiente manera:
    - Descripción: Implementación de un modelo de árboles de decisión.
 
 7. **Random Forest**:
+
    - Descripción: Implementación de un modelo de bosque aleatorio.
+
+8. **Natural Languaje Processing**:
+   - Descripción: Implementación de clasificación de reseñas en Yelp utilizando técnicas de procesamiento de lenguaje natural.
 
 ## Notas
 
